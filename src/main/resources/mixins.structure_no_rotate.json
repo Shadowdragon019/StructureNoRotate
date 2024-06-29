@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "package": "com.sammy.structure_no_rotate.mixins",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": [
+    "JigsawPlacementMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "refmap": "mixins.structure_no_rotate.refmap.json"
+}
