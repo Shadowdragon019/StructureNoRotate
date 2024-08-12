@@ -47,7 +47,7 @@ abstract class JigsawPlacementMixin {
     private static void addPieces(RandomState a, int b, boolean c, ChunkGenerator d, StructureTemplateManager e, LevelHeightAccessor f, RandomSource g, Registry<StructureTemplatePool> h, PoolElementStructurePiece i, List<PoolElementStructurePiece> j, VoxelShape k) {}
 
     /**
-     * @author Sammy
+     * @author Roxxane
      * @reason Easiest way to get new behavior
      */
     @Overwrite
